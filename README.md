@@ -17,11 +17,11 @@ jsp&&servelet简单的增删改查系统是采用*`jsp`*和*`servlet`*和*`mysql
 获取文章列表
 
 ![获取文章列表](https://upload-images.jianshu.io/upload_images/4157022-2d19aa144b3de4bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+----
 查看添加删除文章
 
 ![查看添加删除文章](https://upload-images.jianshu.io/upload_images/4157022-d34bb5b97f70656c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+---
 ## 3 使用说明
 
 
